@@ -1,0 +1,5 @@
+guru:
+  spring:
+    username: DEVYMLusername
+    url: DEVYMLjdbcurl
+    password: DEVYMLpassword

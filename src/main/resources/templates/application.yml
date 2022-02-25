@@ -1,0 +1,13 @@
+spring:
+  profiles:
+   active:
+
+
+guru:
+  spring:
+        username: username
+        password: password
+        url     : jdbcurl
+
+
+
